@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #004466;
+    color: white;
+    padding: 90px;
+    text-align: center;
+}
+header img {
+     /* deixa a foto redonda */
+    margin-bottom: 200;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+h1,h2 {
+    color: #f2f2f2;
+}
+
+h3 {
+    color: #004466;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #004466;
+    color: white;
+}
